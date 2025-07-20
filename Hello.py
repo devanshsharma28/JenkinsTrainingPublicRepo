@@ -1,1 +1,1 @@
-prin ("Hello World from Jenkins v1")
+print ("Hello World from Jenkins v1")
